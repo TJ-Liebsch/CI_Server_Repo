@@ -11,9 +11,9 @@ using namespace std;
 int players = 6;
 
 // These are the function prototypes
-int readFile(string[], string[], int[]);
-string whoWon(string[], int[]);
-
+int readFile();
+string whoWon();
+void printWinner();
 
 int main() // The main function just creates the arrays and calls the 3 functions
 {
