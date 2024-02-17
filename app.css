@@ -24,7 +24,7 @@
   align-items: center;
   gap: 20px;
 }
-
+ 
 @keyframes turn-icon-animation {
   0% {
     transform: scale(1);
