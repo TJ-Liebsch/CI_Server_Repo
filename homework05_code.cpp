@@ -5,7 +5,7 @@
 #include <string>
 #include <fstream>
 
-using namespace std;
+using namespace std; 
 
 // Global varible
 int players = 6;
